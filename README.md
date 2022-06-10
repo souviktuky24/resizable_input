@@ -1,7 +1,7 @@
 
 # react-native-resizable-input
 
-## Getting started
+## Getting Started
 
 `$ npm install react-native-resizable-input --save`
 
